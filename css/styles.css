@@ -37,10 +37,12 @@ body{
 
 
 .navbar-dark{
-    background: #f07503;
+    background:#3d003f;
 }
 
-
+.bg-primary{
+    color: rgb(211, 207, 3);
+}
 
 
 
